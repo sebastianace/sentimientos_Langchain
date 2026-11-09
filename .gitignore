@@ -1,0 +1,10 @@
+# Secretos: nunca se suben al repositorio
+.env
+# Entorno virtual y cachés
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+# Temporales de la escritura atómica
+datos/*.tmp
