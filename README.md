@@ -34,6 +34,19 @@ OPENAI_MODEL=un_modelo_que_admita_salida_estructurada
 # OPENAI_STRUCTURED_METHOD=json_schema
 ```
 
+### Alternativa sin costo: Ollama (la usada en esta entrega)
+
+Las pruebas y los datos semilla se generaron con Ollama local y `llama3.1`, no con OpenAI:
+
+```dotenv
+OPENAI_API_KEY=ollama
+OPENAI_MODEL=llama3.1
+OPENAI_BASE_URL=http://localhost:11434/v1
+OPENAI_STRUCTURED_METHOD=function_calling
+```
+
+Requiere `ollama serve` activo y `ollama pull llama3.1`. Cada registro guarda el modelo usado.
+
 `OPENAI_STRUCTURED_METHOD` solo se cambia si el modelo elegido rechaza el esquema `json_schema`
 (ver «Decisiones» más abajo).
 

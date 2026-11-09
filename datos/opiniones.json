@@ -1,4 +1,170 @@
 {
   "version": 1,
-  "opiniones": []
+  "opiniones": [
+    {
+      "id": "4d6fd568-61c3-5696-97d5-b6582663edcf",
+      "fecha_utc": "2026-11-09T04:48:49+00:00",
+      "jugador_id": "j001",
+      "jugador_nombre": "Lionel Messi",
+      "opinion_original": "Su visión de juego y sus pases son extraordinarios",
+      "sentimiento": "positivo",
+      "razon": "La opinión del aficionado es una valoración favorable sobre la habilidad de Lionel Messi en el juego",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "d3ce78e3-c12e-50e9-984e-e1f4b966e8cd",
+      "fecha_utc": "2026-11-09T04:48:52+00:00",
+      "jugador_id": "j001",
+      "jugador_nombre": "Lionel Messi",
+      "opinion_original": "Su rendimiento en ese partido fue decepcionante y se vio desconectado",
+      "sentimiento": "negativo",
+      "razon": "La opinión del aficionado critica el rendimiento de Lionel Messi en un partido específico, lo que indica que no está de acuerdo con su actuación.",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "685b8492-bbfc-5250-bae8-9fa11c5b767a",
+      "fecha_utc": "2026-11-09T04:48:57+00:00",
+      "jugador_id": "j001",
+      "jugador_nombre": "Lionel Messi",
+      "opinion_original": "Tiene una técnica admirable, pero su actitud cuando pierde me decepciona",
+      "sentimiento": "mixto",
+      "razon": "La opinión contiene a la vez elogios y críticas relevantes sobre la técnica y la actitud de Lionel Messi.",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "a475046d-ac49-501a-a26b-499230923be0",
+      "fecha_utc": "2026-11-09T04:48:59+00:00",
+      "jugador_id": "j002",
+      "jugador_nombre": "Cristiano Ronaldo",
+      "opinion_original": "Su disciplina y su capacidad goleadora son admirables",
+      "sentimiento": "positivo",
+      "razon": "La opinión del aficionado elogia las habilidades de Cristiano Ronaldo",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "b5ed898a-4220-5b1e-8565-52f0ca9220d0",
+      "fecha_utc": "2026-11-09T04:49:02+00:00",
+      "jugador_id": "j002",
+      "jugador_nombre": "Cristiano Ronaldo",
+      "opinion_original": "Se la pasa quejándose y su egoísmo perjudica al equipo",
+      "sentimiento": "negativo",
+      "razon": "La opinión del aficionado critica el comportamiento de Cristiano Ronaldo, considerándolo perjudicial para el equipo",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "cfe288b0-862f-535f-92aa-1d60c2768e8e",
+      "fecha_utc": "2026-11-09T04:49:06+00:00",
+      "jugador_id": "j002",
+      "jugador_nombre": "Cristiano Ronaldo",
+      "opinion_original": "Es un goleador implacable, aunque su ego a veces incomoda a sus compañeros",
+      "sentimiento": "mixto",
+      "razon": "La opinión contiene a la vez elogios y críticas relevantes sobre el ego del jugador",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "2fd05412-2081-50ff-b0f9-3cfa6ead8f4a",
+      "fecha_utc": "2026-11-09T04:49:09+00:00",
+      "jugador_id": "j013",
+      "jugador_nombre": "Luis Díaz",
+      "opinion_original": "Su velocidad y su desborde por la banda son geniales",
+      "sentimiento": "positivo",
+      "razon": "La opinión es descriptiva y elogiosa sobre la velocidad y el desborde del jugador Luis Díaz",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "9148e306-d3ce-5c35-85c4-f02882241859",
+      "fecha_utc": "2026-11-09T04:49:11+00:00",
+      "jugador_id": "j013",
+      "jugador_nombre": "Luis Díaz",
+      "opinion_original": "Falló todas las ocasiones claras, fue un partido muy flojo",
+      "sentimiento": "negativo",
+      "razon": "La opinión del aficionado critica al jugador por fallar ocasiones claras y tener un partido flojo",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "34016d81-07d6-5a17-a843-f4bb06c2f63c",
+      "fecha_utc": "2026-11-09T04:49:16+00:00",
+      "jugador_id": "j013",
+      "jugador_nombre": "Luis Díaz",
+      "opinion_original": "Su velocidad es espectacular, pero toma malas decisiones en el último pase",
+      "sentimiento": "mixto",
+      "razon": "La opinión menciona tanto un elogio (velocidad espectacular) como una crítica (malas decisiones en el último pase)",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e72b734c-aecc-54e7-9a32-15407750ef7a",
+      "fecha_utc": "2026-11-09T04:49:19+00:00",
+      "jugador_id": "j017",
+      "jugador_nombre": "Diego Maradona",
+      "opinion_original": "Su talento y su creatividad con el balón fueron únicos",
+      "sentimiento": "positivo",
+      "razon": "La opinión es descriptiva y elogiosa del talento y creatividad de Diego Maradona con el balón",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "cbaca228-454d-5c2f-8c11-fb1220fa22ff",
+      "fecha_utc": "2026-11-09T04:49:21+00:00",
+      "jugador_id": "j017",
+      "jugador_nombre": "Diego Maradona",
+      "opinion_original": "Sus polémicas fuera de la cancha me parecen lamentables",
+      "sentimiento": "negativo",
+      "razon": "La opinión critica las acciones de Diego Maradona fuera del fúltol",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "da072733-55bd-5d34-bca1-fc6b5738b3ea",
+      "fecha_utc": "2026-11-09T04:49:26+00:00",
+      "jugador_id": "j017",
+      "jugador_nombre": "Diego Maradona",
+      "opinion_original": "Dentro de la cancha era un genio, pero su comportamiento fuera de ella me decepciona",
+      "sentimiento": "mixto",
+      "razon": "La opinión es mixta porque el aficionado elogia a Maradona dentro de la cancha pero critica su comportamiento fuera de ella",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "01417196-b92f-5c8f-a27a-8a4031527348",
+      "fecha_utc": "2026-11-09T04:49:42+00:00",
+      "jugador_id": "j001",
+      "jugador_nombre": "Lionel Messi",
+      "opinion_original": "Es un jugador de fútbol que juega de delantero",
+      "sentimiento": "neutro",
+      "razon": "La opinión es descriptiva e informativa y no expresa valoración favorable ni desfavorable sobre Lionel Messi",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "97fba0c6-33c7-54fa-a91a-8cc7ec518c9f",
+      "fecha_utc": "2026-11-09T04:49:52+00:00",
+      "jugador_id": "j002",
+      "jugador_nombre": "Cristiano Ronaldo",
+      "opinion_original": "Es un jugador de fútbol que juega de delantero centro",
+      "sentimiento": "neutro",
+      "razon": "La opinión es descriptiva e informativa y no expresa valoración favorable ni desfavorable sobre Cristiano Ronaldo",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "d7d7abf8-8f90-57b3-a594-a68705bcb969",
+      "fecha_utc": "2026-11-09T04:53:21+00:00",
+      "jugador_id": "j013",
+      "jugador_nombre": "Luis Díaz",
+      "opinion_original": "Es un jugador de fútbol que juega de extremo",
+      "sentimiento": "neutro",
+      "razon": "La opinión es descriptiva e informativa, no expresa valoración favorable ni desfavorable sobre Luis Díaz",
+      "modelo": "llama3.1",
+      "version_prompt": "1.0"
+    }
+  ]
 }

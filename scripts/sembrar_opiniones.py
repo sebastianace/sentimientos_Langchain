@@ -27,25 +27,25 @@ OPINIONES = {
     "j001": [  # Lionel Messi
         "Su visión de juego y sus pases son extraordinarios",
         "Su rendimiento en ese partido fue decepcionante y se vio desconectado",
-        "Es un delantero argentino que usa la camiseta número diez",
+        "Es un jugador de fútbol que juega de delantero",
         "Tiene una técnica admirable, pero su actitud cuando pierde me decepciona",
     ],
     "j002": [  # Cristiano Ronaldo
         "Su disciplina y su capacidad goleadora son admirables",
         "Se la pasa quejándose y su egoísmo perjudica al equipo",
-        "Es un futbolista portugués que ha jugado en varios países",
+        "Es un jugador de fútbol que juega de delantero centro",
         "Es un goleador implacable, aunque su ego a veces incomoda a sus compañeros",
     ],
     "j013": [  # Luis Díaz
         "Su velocidad y su desborde por la banda son geniales",
         "Falló todas las ocasiones claras, fue un partido muy flojo",
-        "Es un extremo colombiano que juega por la banda",
+        "Es un jugador de fútbol que juega de extremo",
         "Su velocidad es espectacular, pero toma malas decisiones en el último pase",
     ],
     "j017": [  # Diego Maradona
         "Su talento y su creatividad con el balón fueron únicos",
         "Sus polémicas fuera de la cancha me parecen lamentables",
-        "Fue un futbolista argentino que vistió la camiseta número diez",
+        "Es un jugador de fútbol que jugó de mediapunta",
         "Dentro de la cancha era un genio, pero su comportamiento fuera de ella me decepciona",
     ],
 }
